@@ -12,6 +12,7 @@ flask-testing = "*"
 gunicorn = "*"
 nginx = "*"
 bootstrap4 = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.8"
